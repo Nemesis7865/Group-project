@@ -8,7 +8,7 @@ function App() {
   return (
     <>
     <div>
-      nemesis
+      nemess
     </div>
     <Footer />
       <NavBar />
