@@ -7,6 +7,9 @@ import {NavBar,Footer} from './Container/ExportContainer'
 function App() {
   return (
     <>
+    <div>
+      nemesis
+    </div>
     <Footer />
       <NavBar />
     </>
